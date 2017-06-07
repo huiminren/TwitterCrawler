@@ -1,5 +1,5 @@
 # TwitterCrawler
-Crawl Tweets without Twitter API to avoid rate limits
+Crawl Tweets **without Twitter API** to avoid rate limits
 
 Step:
 1. Connect to the link
@@ -13,6 +13,6 @@ Step:
    e. Copy all the information in 'Query String Paramters' to param{}.
    f. Set response.
 2. Parser html
-   Use BeautifulSoup to parser html into DOM
+   Use BeautifulSoup to parser html into DOM.
 3. Store data
-   Use Pandas to store data into dataframe and csv
+   Use Pandas to store data into dataframe and csv file.
